@@ -1,6 +1,6 @@
 # Omnifood
 This is a single page static food delivery responsive webpage using HTML, CSS and JavaScript.
-Click here 👉[geekytaurus-omnifood](https://twitter.com/msgeekytaurus/status/1429874905194057734) for visual overview of this project
+Click here 👉[geekytaurus-omnifood](https://twitter.com/msgeekytaurus/status/1435356013285330947) for visual overview of this project
 
 
 #### Some screenshots of this page is given below:
