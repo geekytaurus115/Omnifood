@@ -6,8 +6,9 @@ Click here 👉[geekytaurus-omnifood](https://twitter.com/msgeekytaurus/status/1
 #### Some screenshots of this page is given below:
 ![omnifood1](images/omnifood1.png)
 ![omnifood2](images/omnifood2.png)
-![omnifood3](images/omnifood3.png)
 ![omnifood4](images/omnifood4.png)
+![omnifood3](images/omnifood3.png)
+
 
 
 
